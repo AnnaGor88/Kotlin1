@@ -1,7 +1,7 @@
 fun main() {
     println("Hello! What is your name?")
     println("Hi! My name is Ann!")
-//Zdes comment
+//Zdes comments
     print("What your favorite food? ")
     print(" Seafood. ")
 
